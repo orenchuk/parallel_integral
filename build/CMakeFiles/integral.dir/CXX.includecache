@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/orenchuk/Developments/Parallel_integral/Parallel_integral/main.cpp
+iostream
+-
+chrono
+-
+atomic
+-
+assert.h
+-
+fstream
+-
+string
+-
+math.h
+-
+sstream
+-
+map
+-
+vector
+-
+thread
+-
+mutex
+-
+

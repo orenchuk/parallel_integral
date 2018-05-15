@@ -1,0 +1,3 @@
+/Users/orenchuk/Developments/Parallel_integral/Parallel_integral/build/CMakeFiles/rebuild_cache.dir
+/Users/orenchuk/Developments/Parallel_integral/Parallel_integral/build/CMakeFiles/edit_cache.dir
+/Users/orenchuk/Developments/Parallel_integral/Parallel_integral/build/CMakeFiles/integral.dir

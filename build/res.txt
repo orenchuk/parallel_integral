@@ -1,0 +1,48 @@
+Threads: 1
+Steps frequency: 200
+-1.60463
+time: 6898ms
+Absolute error: 1001.5
+Relative error: 1.0016
+Threads: 1
+Steps frequency: 400
+-1.60464
+time: 28494ms
+Absolute error: 1.14082e-05
+Relative error: 7.10957e-06
+Threads: 2
+Steps frequency: 200
+-1.60463
+time: 4304ms
+Absolute error: 1001.5
+Relative error: 1.0016
+Threads: 2
+Steps frequency: 400
+-1.60464
+time: 18003ms
+Absolute error: 1.14082e-05
+Relative error: 7.10957e-06
+Threads: 4
+Steps frequency: 200
+-1.60463
+time: 2644ms
+Absolute error: 1001.5
+Relative error: 1.0016
+Threads: 4
+Steps frequency: 400
+-1.60464
+time: 16331ms
+Absolute error: 1.14082e-05
+Relative error: 7.10957e-06
+Threads: 8
+Steps frequency: 200
+-1.60463
+time: 3245ms
+Absolute error: 1001.5
+Relative error: 1.0016
+Threads: 8
+Steps frequency: 400
+-1.60464
+time: 10863ms
+Absolute error: 1.14082e-05
+Relative error: 7.10957e-06

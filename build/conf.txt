@@ -1,0 +1,9 @@
+threads=1
+minX=-10
+maxX=10
+minY=-10
+maxY=10
+rel_err=0.001
+abs_err=0.05
+initial_steps=200
+max_steps=1000
